@@ -1,0 +1,625 @@
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:21:13] "GET /apps?appid=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:21:26] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:21:33] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:22:24] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:24:38] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:26:34] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:27:06] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:29:31] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:29:46] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:30:11] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:30:42] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:30:57] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:34:39] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:36:07] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:36:25] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:36:32] "GET /apps HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:36:36] "GET /apps?appId= HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:40:29] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:42:25] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:43:14] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:43:56] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:44:15] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 20:44:30] "GET /apps?appId=fk-crm-data HTTP/1.1" 201 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:00:24] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:00:56] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:01:11] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:04:42] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:17:40] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:19:33] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:19:53] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:20:13] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:22:00] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:26:12] "GET /apps?appId=fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:28:21] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:29:36] "GET /apps?appId=fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:29:44] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:30:45] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:32:15] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:32:28] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:32:46] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:33:10] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:33:26] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:34:12] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:53:13] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:53:49] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:54:11] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:54:22] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:54:33] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:54:59] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:55:14] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:56:06] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 209, in run_wsgi
+    execute(self.server.app)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 197, in execute
+    application_iter = app(environ, start_response)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/flask/app.py", line 1989, in wsgi_app
+    return response(environ, start_response)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 1276, in __call__
+    app_iter, status, headers = self.get_wsgi_response(environ)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 1264, in get_wsgi_response
+    headers = self.get_wsgi_headers(environ)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 1215, in get_wsgi_headers
+    for x in self.response)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 1215, in <genexpr>
+    for x in self.response)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/_compat.py", line 112, in to_bytes
+    raise TypeError('Expected bytes')
+TypeError: Expected bytes
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:57:14] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 209, in run_wsgi
+    execute(self.server.app)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 199, in execute
+    for data in application_iter:
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wsgi.py", line 704, in __next__
+    return self._next()
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 81, in _iter_encoded
+    for item in iterable:
+TypeError: 'Response' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:57:23] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 209, in run_wsgi
+    execute(self.server.app)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 199, in execute
+    for data in application_iter:
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wsgi.py", line 704, in __next__
+    return self._next()
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 81, in _iter_encoded
+    for item in iterable:
+TypeError: 'Response' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 21:59:31] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 209, in run_wsgi
+    execute(self.server.app)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 199, in execute
+    for data in application_iter:
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wsgi.py", line 704, in __next__
+    return self._next()
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 81, in _iter_encoded
+    for item in iterable:
+TypeError: 'Response' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:00:20] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 209, in run_wsgi
+    execute(self.server.app)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 199, in execute
+    for data in application_iter:
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wsgi.py", line 704, in __next__
+    return self._next()
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 81, in _iter_encoded
+    for item in iterable:
+TypeError: 'Response' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:01:04] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:01:30] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 209, in run_wsgi
+    execute(self.server.app)
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/serving.py", line 199, in execute
+    for data in application_iter:
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wsgi.py", line 704, in __next__
+    return self._next()
+  File "/Users/gaurav.ss/virtenv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 81, in _iter_encoded
+    for item in iterable:
+TypeError: 'Response' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:02:17] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:02:45] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:03:02] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:03:19] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:04:07] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:04:19] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:04:42] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:06:06] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:07:31] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:07:50] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:08:23] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:08:47] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:09:27] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:10:53] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:27:22] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:28:37] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:32:18] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:32:35] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:37:15] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-cskbsearch
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:37:30] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-cskbindex
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:37:39] "GET /apps?appId=prod-cskbindex HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: crm-km-mongo
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:37:48] "GET /apps?appId=crm-km-mongo HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: crm-km-mongo-sb
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:38:07] "GET /apps?appId=crm-km-mongo-sb HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: crm-km-mongo-sb
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:38:43] "GET /apps?appId=crm-km-mongo-sb HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: crm-km-mongo-sb
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:40:36] "GET /apps?appId=crm-km-mongo-sb HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: crm-km-mongo-sb
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:40:54] "GET /apps?appId=crm-km-mongo-sb HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-ims-audit-mongod
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:41:57] "GET /apps?appId=prod-ims-audit-mongod HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-ims-audit
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:42:11] "GET /apps?appId=prod-ims-audit HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-cx-oathkeeper
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:43:01] "GET /apps?appId=prod-cx-oathkeeper HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-cx-murchison
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:43:11] "GET /apps?appId=prod-cx-murchison HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: d42-self-serve
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:46:23] "GET /apps?appId=d42-self-serve HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: rome
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:48:20] "GET /apps?appId=rome HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: connekt
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:48:41] "GET /apps?appId=connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:49:29] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: rome-console
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:52:12] "GET /apps?appId=rome-console HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: rome-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:52:17] "GET /apps?appId=rome-data HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: preprod-ceryx
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:53:39] "GET /apps?appId=preprod-ceryx HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-cx-survey-mysql
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:55:36] "GET /apps?appId=fk-cx-survey-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-cs-session
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:56:58] "GET /apps?appId=fk-cs-session HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-cx-survey-app
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:57:18] "GET /apps?appId=fk-cx-survey-app HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-cx-survey-redis-slave
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 22:57:37] "GET /apps?appId=fk-cx-survey-redis-slave HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-cx-survey-redis-sentinel
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:00:34] "GET /apps?appId=fk-cx-survey-redis-sentinel HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: cx-flipconnect
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:02:05] "GET /apps?appId=cx-flipconnect HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-crm-case-mgr
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:03:00] "GET /apps?appId=fk-crm-case-mgr HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:03:24] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:16:27] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:17:19] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:29:29] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:30:02] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:30:48] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:31:59] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:33:13] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:34:15] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:34:53] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:35:14] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:35:24] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:36:02] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:36:28] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:37:16] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:37:24] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2017 23:44:17] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:15:16] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:17:14] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:17:38] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:17:59] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:23:24] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:44:22] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:48:17] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:49:14] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:49:32] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:51:38] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:52:11] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:54:35] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:54:45] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 11:55:43] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:02:15] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:02:50] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:19:29] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:20:56] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:21:26] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:26:24] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:26:31] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:27:14] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:27:37] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:27:57] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:28:43] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oathkeeper-mysql
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:30:14] "GET /apps?appId=prod-oathkeeper-mysql HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:30:20] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-cs-ims-core-app
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:30:53] "GET /apps?appId=prod-cs-ims-core-app HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: d42-self-serve
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:31:19] "GET /apps?appId=d42-self-serve HTTP/1.1" 200 -
+ERROR:root:No appId in request
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:31:25] "GET /apps?appId= HTTP/1.1" 400 -
+INFO:root:AppId to be discovered: ekl-facilities
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:31:55] "GET /apps?appId=ekl-facilities HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: ekl-facilities-external
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:32:20] "GET /apps?appId=ekl-facilities-external HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-sp-srm-acl
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:34:03] "GET /apps?appId=fk-sp-srm-acl HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-jarvis
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:34:12] "GET /apps?appId=prod-jarvis HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-d42sa
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:35:28] "GET /apps?appId=prod-d42sa HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-d42sa
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:36:39] "GET /apps?appId=prod-d42sa HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-d42bk
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:36:51] "GET /apps?appId=prod-d42bk HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-ceryx
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:38:05] "GET /apps?appId=prod-ceryx HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-erp-km-notification
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:38:23] "GET /apps?appId=fk-erp-km-notification HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: pricing-acl-service
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:38:33] "GET /apps?appId=pricing-acl-service HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: hudson-app
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:38:47] "GET /apps?appId=hudson-app HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: stage-d42sa
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:39:29] "GET /apps?appId=stage-d42sa HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-log
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:40:00] "GET /apps?appId=prod-log HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: pricing-acl-service
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:40:56] "GET /apps?appId=pricing-acl-service HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-log
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:42:32] "GET /apps?appId=prod-log HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: ce-gap-foxtrot-elasticsearch
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:43:26] "GET /apps?appId=ce-gap-foxtrot-elasticsearch HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: apl
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:44:17] "GET /apps?appId=apl HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: hdfs-viewfs-ft
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:44:37] "GET /apps?appId=hdfs-viewfs-ft HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: test-log
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:44:50] "GET /apps?appId=test-log HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: test-log
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:45:10] "GET /apps?appId=test-log HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-fdphadoop
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:46:27] "GET /apps?appId=prod-fdphadoop HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-sp-srm-acl
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:47:35] "GET /apps?appId=fk-sp-srm-acl HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-cs-ims-core-app
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:47:45] "GET /apps?appId=prod-cs-ims-core-app HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: uie-athena
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:49:32] "GET /apps?appId=uie-athena HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: uie-athena
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:49:46] "GET /apps?appId=uie-athena HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: inventory-master
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:50:40] "GET /apps?appId=inventory-master HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oms3
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:51:04] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oms3
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:51:10] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-dsp-santa-deedee-prod
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:51:27] "GET /apps?appId=fk-dsp-santa-deedee-prod HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: athena
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:51:48] "GET /apps?appId=athena HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: athena
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 12:54:01] "GET /apps?appId=athena HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-cs-ims-core-app
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:29:55] "GET /apps?appId=prod-cs-ims-core-app HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-cs-ims-core-app
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:30:19] "GET /apps?appId=prod-cs-ims-core-app HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:30:33] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:32:07] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:32:48] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:36:40] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:39:39] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:40:08] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 14:40:29] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:25:38] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:33:47] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:35:33] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:36:05] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:36:27] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:36:45] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:37:44] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:38:11] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:39:50] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:40:13] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:40:32] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:54:10] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:55:45] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:56:53] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:57:43] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:58:07] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:58:33] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 15:59:06] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:00:02] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:00:20] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:00:26] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:01:52] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:03:10] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:04:10] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:06:31] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:07:26] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:09:54] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:10:52] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:11:55] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:12:32] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:14:05] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:14:51] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:15:26] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:15:53] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:16:48] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:17:24] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:17:53] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:24:04] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:25:03] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:41:40] "GET /apps?appId=fk-connekt HTTP/1.1" 500 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:42:07] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:46:43] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:48:08] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:49:01] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:50:00] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: fk-connekt
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:52:00] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: appid-fk-crm-data
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:53:30] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-oms3
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:54:01] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-d42sa
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:54:34] "GET /apps?appId=prod-d42sa HTTP/1.1" 200 -
+INFO:root:AppId to be discovered: prod-noah
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:54:50] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 16:59:14] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:00:10] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:05:36] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:05:55] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:08:21] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:09:21] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:10:37] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:15:45] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:16:01] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:31:43] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:32:38] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:33:57] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:35:20] "GET /apps?appId=prod-noah HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:35:47] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:40:34] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:41:10] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:42:09] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:43:41] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:45:46] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:51:22] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 17:57:33] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:00:41] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:03:25] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:08:09] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:08:26] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:12:31] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:13:14] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:13:53] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:14:24] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:15:11] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:16:24] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:38:15] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:39:09] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:41:45] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:43:20] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:51:28] "GET /apps?appId=prod-oms3 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:52:46] "GET /apps?appId=prod-oms3 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:53:27] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:54:08] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:54:31] "GET /apps?appId=prod-oms3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:56:45] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:57:08] "GET /apps?appId=prod-log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:57:36] "GET /apps?appId=hudson-app HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:57:59] "GET /apps?appId=uie-athena HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:58:22] "GET /apps?appId=athena HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 18:59:21] "GET /apps?appId=fk-dsp-santa-deedee-prod HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:00:32] "GET /apps?appId=fk-cx-murchison HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:00:36] "GET /apps?appId=prod-cx-murchison HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:00:55] "GET /apps?appId=fk-cx-antelope HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:01:14] "GET /apps?appId=fk-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:01:17] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:03:34] "GET /apps?appId=prod-cx-copper HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:04:28] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:04:55] "GET /apps?appId=fk-cx-antelope HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:05:11] "GET /apps?appId=prod-cx-murchison HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:05:25] "GET /apps?appId=fk-cx-murchison HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:05:37] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:06:49] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:08:44] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:11:35] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:22:11] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:22:30] "GET /apps?appId=crm-km-mongo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:23:12] "GET /apps?appId=crm-km-redis HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:23:16] "GET /apps?appId=crm-km-redis-master HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:23:25] "GET /apps?appId=crm-km-redis-sentinel-id HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:34:55] "GET /apps?appId=crm-km-mongo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 19:48:25] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 20:07:43] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:03:16] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:05:49] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:26:36] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:27:08] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:53:10] "GET /apps?appId=prod-cx-copper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:53:29] "GET /apps/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:53:33] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:53:46] "GET / HTTP/1.1" 500 -
+INFO:werkzeug: * Running on http://0.0.0.0:9900/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:56:31] "GET /apps?appId=fk-connekt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 22:57:26] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:15:49] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:18:08] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:19:57] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:20:45] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:21:36] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:22:23] "GET /apps?appId=crm-km-mongo HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:26:51] "GET /apps?appId=crm-km-mongo HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:27:26] "GET /apps?appId=crm-km-mongo HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:29:17] "GET /apps?appId=crm-km-mongo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:30:37] "GET /apps?appId=crm-km-mongo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:31:22] "GET /apps?appId=crm-km-redis-sentinel-id HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:39:26] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:39:49] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:45:38] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:45:59] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:46:21] "GET /apps?appId=crm-km-mongo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2017 23:47:29] "GET /apps?appId=crm-km-redis-sentinel-id HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 07:39:27] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 07:39:41] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 07:45:18] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 07:45:45] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 07:48:32] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 07:48:49] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:03:06] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:03:40] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:07:38] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:08:48] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:11:37] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:15:14] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:41:30] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:42:00] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:52:30] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:54:33] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:55:42] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:57:29] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 08:58:31] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:02:04] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:02:39] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:04:16] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:05:38] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:21:26] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:23:15] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:24:00] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:25:04] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:27:31] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:28:05] "GET /apps?appId=appid-fk-crm-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:28:23] "GET /apps?appId=prod-cskbsearch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:28:43] "GET /apps?appId=crm-km-mongo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:29:14] "GET /apps?appId=crm-km-redis-sentinel-id HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:31:51] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:34:01] "GET /apps?appId=fk-cx-antelope HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:34:50] "GET /apps?appId=fk-cx-antelope HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:35:27] "GET /apps?appId=prod-cx-murchison HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:36:25] "GET /apps?appId=prod-cx-irongate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:37:28] "GET /apps?appId=prod-cx-irongate-mysql HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:38:49] "GET /apps?appId=prod-cx-irongate-mysql HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:48:59] "GET /apps?appId=prod-cx-oathkeeper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:49:38] "GET /apps?appId=prod-cx-oathkeeper HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:49:56] "GET /apps?appId=prod-cx-irongate-mysql HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:50:26] "GET /apps?appId=prod-cx-irongate-mysql HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:56:41] "GET /apps?appId=prod-knowledgebaseEsMaster HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 09:57:05] "GET /apps?appId=prod-knowledgebaseEsData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:01:59] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:03:59] "GET /apps?appId=prod-cx-irongate-mysql HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:31:59] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:33:50] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:34:21] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:35:18] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:36:28] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:38:04] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:39:30] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:40:36] "GET /apps/dependency HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:41:28] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:42:32] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:47:46] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:55:03] "GET /apps?appId=fk-erp-km-notification HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 10:58:25] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2017 14:27:32] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:26:11] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:26:12] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:28:09] "GET /apps?appId=crm-km-tagging HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:31:31] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:37:52] "GET /apps?appId=crm-km-redis-master HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:38:03] "GET /apps?appId=crm-km-redis-master-prod-id HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:40:31] "GET /apps?appId=crm-km-redis-master-prod-id HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:46:15] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 11:55:48] "GET /apps/dependency HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Nov/2017 12:18:42] "GET /apps?appId=prod-noah HTTP/1.1" 200 -
